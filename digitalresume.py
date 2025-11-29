@@ -29,7 +29,7 @@ def home():
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 
-  <title>Digital Resume — Harshit  Raj Shriwastva </title>
+  <title>Digital Resume — Ayush kumar  </title>
 
 
   <style>
@@ -209,7 +209,7 @@ def home():
       </div>
 
 
-      <h1 id="name">Harshit  Raj Shriwastva</h1>
+      <h1 id="name">Ayuhs kumar</h1>
 
 
       <p class="role">Software Developer • Jaipur</p>
@@ -221,16 +221,16 @@ def home():
       <div class="contact">
 
 
-        <a href="mailto:you@example.com" title="Email">✉️ Harshitraj6480@gmail.com</a>
+        <a href="mailto:you@example.com" title="Email">✉️ Ayushkumar@gmail.com</a>
 
 
-        <a href="#" title="Phone">📞 +91 9798006580 </a>
+        <a href="#" title="Phone">📞 +91 8210615625 </a>
 
 
-        <a href="#" title="Website">🔗 H R Edits.com</a>
+        <a href="#" title="Website">🔗  ayushkumar.com</a>
 
 
-        <a href="#" title="LinkedIn">🔗 linkedin.com/in/harshitraj6480</a>
+        <a href="#" title="LinkedIn">🔗 linkedin.com/in/ayuhskumar</a>
 
 
       </div>
